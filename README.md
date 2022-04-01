@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/4a0108f2ec02e917d4a08fc28aeefb4b021cdaa4db70ffc0e08fe98e01ada436/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966">
+<img align="center" src="https://camo.githubusercontent.com/4a0108f2ec02e917d4a08fc28aeefb4b021cdaa4db70ffc0e08fe98e01ada436/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966">
 
 <h2> Hey there! I'm Lewis.</h2>
 
@@ -38,6 +38,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://uk.linkedin.com/in/lewishalder"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<!-- <a href="https://www.lewishalder.com/"><img alt="Website" src="https://img.shields.io/badge/websithere.com-blue?style=flat-square&logo=google-chrome"></a> -->
+<a href="https://uk.linkedin.com/in/lewishalder"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lewis%20Halder-blue?style=flat-square&logo=linkedin"></a>
 
